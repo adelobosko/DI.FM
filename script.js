@@ -1,12 +1,14 @@
 // ==UserScript==
 // @name         DI FM. FU. UPDATED  Don't bug me, Digitally Imported (Violentmonkey)
+// @name:ru      DI.FM. FU. Обновлен. Закрывает диалоговое окно и запускает музыку (Violentmonkey)
 // @namespace    https://github.com/adelobosko/DI.FM
 // @description  Closes the "Are you still there?" dialog box + Autoplay
+// @description:ru Закрывает окно "Are you still there?" и запускает музыку.
 // @include      https://www.di.fm/*
 // @exclude      https://www.di.fm/login
 // @grant        none
 // @author       Alexey Delobosko (Rescripted the Jonathan Landrum)
-// @version      1.0
+// @version      2.1
 // @grant GM_setValue
 // @grant GM_getValue
 // @run-at document-idle
